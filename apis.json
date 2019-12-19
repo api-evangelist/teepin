@@ -1,0 +1,48 @@
+{
+    "name": "Teepin",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo_teepin.jpg",
+    "tags": [
+        "have api",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/teepin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Teepin",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo_teepin.jpg",
+            "humanURL": "https:\/\/www.teepin.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/teepin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.teepin.com\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.teepin.com\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Teepin"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.teepin.com"
+        }
+    ]
+}
